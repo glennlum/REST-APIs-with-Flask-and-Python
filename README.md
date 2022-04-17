@@ -18,3 +18,6 @@ This code builds on Project 4 adding SQLite database connectivity.
 
 # Project 6
 This code builds on Project 5 providing SQLAlchemy integration.
+
+# Project 7
+This code includes a Flask application designed to simulate a social network activity feed system.
