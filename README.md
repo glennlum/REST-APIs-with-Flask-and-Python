@@ -15,3 +15,6 @@ This code builds on Project 3 by utilising the Flask REST-ful framework and prov
 
 # Project 5
 This code builds on Project 4 adding SQLite database connectivity.
+
+# Project 5
+This code builds on Project 5 providing SQLAlchemy integration.
