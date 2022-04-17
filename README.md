@@ -11,10 +11,10 @@ The code includes a simple Flask API that is deployed with Docker.
 This code includes a Flask application with multiple API endpoints for managing a department store chain.
 
 # Project 4
-This code builds on Project 3 by utilising the Flask REST-ful framework and providing JWT authentication.
+This code builds on Project 3 implementing the Flask REST-ful framework and providing JWT authentication.
 
 # Project 5
 This code builds on Project 4 adding SQLite database connectivity.
 
-# Project 5
+# Project 6
 This code builds on Project 5 providing SQLAlchemy integration.
