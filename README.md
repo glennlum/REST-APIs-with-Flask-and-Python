@@ -51,3 +51,6 @@ toml==0.10.2
 Werkzeug==2.1.1
 zipp==3.8.0
 ```
+## Projects with Dockerfiles
+`$ docker image build -t <app_name> .`  
+`$ docker run -p 5000:5000 -d <app_name>`
